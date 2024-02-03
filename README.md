@@ -13,9 +13,9 @@ Note: To run this code you'll need to have a GBIF account, and allow the rgbif p
 to your GBIF credentials. This can be easily done by saving them in your .Renviron file by running 
 the following code in RStudio:
 
-`install.packages("usethis")
-usethis::edit_r_environ()
-GBIF_USER="yourusername"
-GBIF_PWD="yourpassword"
-GBIF_EMAIL="youremail"`
+<p>`install.packages("usethis")<br>
+<p> usethis::edit_r_environ() <br>
+<p> GBIF_USER="yourusername" <br>
+<p> GBIF_PWD="yourpassword" <br>
+<p> GBIF_EMAIL="youremail"` <br>
 
