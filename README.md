@@ -17,5 +17,5 @@ the following code in RStudio:
 usethis::edit_r_environ()  
 GBIF_USER="yourusername"  
 GBIF_PWD="yourpassword"  
-GBIF_EMAIL="youremail" ```
+GBIF_EMAIL="youremail"```
 
