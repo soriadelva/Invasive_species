@@ -10,12 +10,12 @@ This repository contains the R code and necessary material to retrieve species o
 3. Click `Run > Run all` to run the commands
 
 Note: To run this code you'll need to have a GBIF account, and allow the rgbif package access 
-to your GBIF credentials. This can be easily done by saving them in your .Renviron file by running 
+to your GBIF credentials. This can be easily done by saving them in your **.Renviron** file by running 
 the following code in RStudio:
 
-`install.packages("usethis")  
+```install.packages("usethis")  
 usethis::edit_r_environ()  
 GBIF_USER="yourusername"  
 GBIF_PWD="yourpassword"  
-GBIF_EMAIL="youremail"` 
+GBIF_EMAIL="youremail" ```
 
