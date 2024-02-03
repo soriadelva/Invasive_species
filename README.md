@@ -13,7 +13,7 @@ Note: To run this code you'll need to have a GBIF account, and allow the _rgbif_
 to your GBIF credentials. This can be easily done by saving them in your **.Renviron** file by running 
 the following code in RStudio:
 
-```RStudio
+``` r
 
 install.packages("usethis")  
 usethis::edit_r_environ()  
