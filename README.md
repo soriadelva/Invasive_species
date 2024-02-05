@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the R code and necessary material to retrieve species occurrences from GBIF for a specific year range in Flanders and to visually plot these data as a map of observations and a bar chart of observations per year.
 
-## Installation
+## Usage
 
 1. Clone this repository to your computer
 2. Open the R script
