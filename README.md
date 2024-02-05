@@ -8,7 +8,7 @@ This repository contains the R code and necessary material to retrieve species o
 1. Clone this repository to your computer
 2. Run `Case_Study_SoriaDelva.R`
 
-Note: To run this code you'll need to have a GBIF account, and allow the _rgbif_ package access 
+Note: To run this script you will need to have a GBIF account and allow the _rgbif_ package access 
 to your GBIF credentials. This can be easily done by saving them in your **.Renviron** file by running 
 the following code in RStudio:
 
